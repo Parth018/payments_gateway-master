@@ -11,6 +11,17 @@ This project is a comprehensive payment gateway integration system that combines
 5. Transaction Management: Efficiently manage transactions, including order processing, payment verification, and error handling. The system ensures reliability and integrity throughout the payment process.
 6. Customization and Scalability: The architecture of the project is designed to be easily scalable and customizable. It allows for the future addition of new payment processors, providing flexibility for further expansion.
 
+### Tech Stack
+
+**Client:** React, Redux, TailwindCSS, SCSS
+
+**Server:** Spring Boot, PostgreSQL, RestClient, Hibernate-JPA
+
+### Frontend UI photos
+![front_end_example](./docs/payment.png)
+![front_end_example](./docs/invoices.png)
+![front_end_example](./docs/stripe.png)
+![front_end_example](./docs/products.png)
 
 ### API Reference
 
@@ -64,16 +75,4 @@ This project is a comprehensive payment gateway integration system that combines
 | `productId`   | `string`  | **Required**. Product id |
 
 
-
-### Tech Stack
-
-**Client:** React, Redux, TailwindCSS, SCSS
-
-**Server:** Spring Boot, PostgreSQL, RestClient, Hibernate-JPA
-
-### Frontend UI photos
-![front_end_example](./docs/payment.png)
-![front_end_example](./docs/invoices.png)
-![front_end_example](./docs/products.png)
-
-`Developed by byko-dev 2023`
+`Developed by Parth 2024`
