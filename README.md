@@ -1,6 +1,7 @@
 ## Payment Gateway Integration for Stripe, PayPal and CoinPayments
 
-This project is a comprehensive payment gateway integration system that combines three popular payment processors: Stripe, PayPal, and CoinPayments. The system is built using the Spring Boot framework for the backend and React.js with Redux for the frontend.
+This project is a comprehensive payment gateway integration system that combines three popular payment processors: Stripe, PayPal, and CoinPayments. 
+The system is built using the Spring Boot framework for the backend and React.js with Redux for the frontend.
 
 ### Key Features:
 
@@ -13,9 +14,9 @@ This project is a comprehensive payment gateway integration system that combines
 
 ### Tech Stack
 
-**Client:** React, Redux, TailwindCSS, SCSS
-
 **Server:** Spring Boot, PostgreSQL, RestClient, Hibernate-JPA
+
+**Client:** React, Redux, TailwindCSS, SCSS
 
 ### Frontend UI photos
 ![front_end_example](./docs/payment.png)
