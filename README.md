@@ -39,7 +39,7 @@ The system is built using the Spring Boot framework for the-backend and React.js
 | `brand`   | `string`  | **Required**. Product brand |
 | `category`   | `string`  | **Required**. Category of product |
 
-##### Get all products
+##### Get all products API
 
 ```
   GET /products
@@ -47,7 +47,7 @@ The system is built using the Spring Boot framework for the-backend and React.js
 
 #### Invoice Controller Request
 
-##### Get all-invoices
+##### Get all-invoices/
 ```
   GET /invoices
 ```
