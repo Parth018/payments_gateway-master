@@ -5,7 +5,7 @@ The system is built using the SpringBoot Framework for the backend & React.js wi
 
 ### Tech Stack
 
-**Server:** Spring Boot, PostgreSQL, RestClient, Hibernate-JPA
+**Server:** Spring Boot, PostgreSQL, RestClient, Hibernate-JPA, SQL
 
 **Client:** React, Redux, TailwindCSS, SCSS
 
