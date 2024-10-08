@@ -22,7 +22,7 @@ The system is built using the SpringBoot Framework for the backend & React with 
 3. CoinPayments Integration: Support cryptocurrency payments through CoinPayments. Users can select from a variety of cryptocurrencies & complete transactions securely.
 4. User-Friendly Interface: The frontend, developed using React.js and Redux, offers a responsive site & intuitive user interface. Real-time updates and feedback on the payment provide a seamless payment experience.
 5. Transaction-Management Module: Efficiently manage each transaction, including order processing with payment verification, and error handling. The system ensures reliability and integrity throughout the payment process.
-6. Customization & Scalability: The architecture of the project is designed to be easily scalable & customizable. It allows for the future addition of new payment processors, providing flexibility for further expansion too.
+6. Customization & Scalability: The architecture of the project is designed to be easily scalable and customizable. It allows for future addition of new payment processors, providing flexibility for further expansion too.
 
 ### API References
 
