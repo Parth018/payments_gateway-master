@@ -18,9 +18,9 @@ The system is built using the SpringBoot Framework for the backend & React with 
 ### Key Features:
 
 1. Stripe Integration: Seamlessly integrate Stripe to allow users to make payments by credit/debit cards, and other supported payment methods. The system ensures the highest level of data security through secure tokenization of sensitive payment information.
-2. PayPal-Integration: Provide users with option to make payments by using their PayPal accounts. The system securely handles the entire PayPal payment method, including authentication and transaction management.
+2. PayPal-Integration: Provide users with the option to make payments by using their PayPal accounts. The system securely handles the entire PayPal payment method, including authentication and transaction management.
 3. CoinPayments Integration: Support cryptocurrency payments through CoinPayments. Users can select from a variety of cryptocurrencies & complete transactions securely.
-4. User-Friendly Interface: The frontend, developed using React.js and Redux, offers a responsive site & intuitive user interface. Real-time updates and feedback on the payment provide a seamless payment experience.
+4. User-Friendly Interface: The frontend, developed using React.js and Redux, offers responsive website look & intuitive user interface. Real-time updates and feedback on the payment provide a seamless payment experience.
 5. Transaction-Management Module: Efficiently manage each transaction, including order processing with payment verification, and error handling. The system ensures reliability and integrity throughout the payment process.
 6. Customization & Scalability: The architecture of the project is designed to be easily scalable and customizable. It allows for future addition of new payment processors, providing flexibility for further expansion too.
 
