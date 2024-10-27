@@ -1,11 +1,11 @@
 ## Payment Gateway Integration for Stripe, PayPal and CoinPayments
 
-This project is a comprehensive, payment gateway integration system that combines three popular payment processors: Stripe, PayPal, CoinPayments. 
+This project is a comprehensive, payment gateway integration system that combines three popular payment processors: Stripe, PayPal, and CoinPayments. 
 The system is built using - SpringBoot Framework for the backend and React with Redux for the frontend side
 
 ### Tech Stack
 
-**Server:** Spring Boot, PostgreSQL, RestClient, Hibernate-JPA, SQL
+**Server:** Spring Boot, PostgreSQL, RestClient, HibernateJPA, SQL
 
 **Client:** React, Redux, TailwindCSS, SCSS
 
@@ -18,7 +18,7 @@ The system is built using - SpringBoot Framework for the backend and React with 
 ### Key Features:
 
 1. Stripe Integration: Seamlessly integrate Stripe to allow users to make payments by credit/debit cards, and other supported payment methods. The system ensures the highest level of data security through secure tokenization of sensitive payment information.
-2. PayPal-Integration: Provide users with the option to make payments by using their PayPal accounts. The system securely handles the entire PayPal payment method, including authentication and transaction management.
+2. PayPal-Integration: Provide users with the option to make payments by using their PayPal accounts. The system securely handles all PayPal payment methods, including authentication and transaction management.
 3. CoinPayments Integration: Support cryptocurrency payments through CoinPayments. Users can select from a variety of cryptocurrencies & complete transactions securely.
 4. User-Friendly Interface: The frontend, developed using React.js and Redux, offers a responsive website look & intuitive user interface. Real-time updates and feedback on the payment provide a seamless payment experience.
 5. Transaction-Management Module: Efficiently manage each transaction, including order processing with payment verification, and error handling. The system ensures reliability and integrity throughout the payment process.
