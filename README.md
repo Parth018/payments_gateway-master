@@ -5,9 +5,9 @@ The system is built using, SpringBoot Framework for the backend and React with R
 
 ### Tech Stack
 
-**Server:** Spring Boot, PostgreSQL, RestClient, HibernateJPA, SQL
+**Server-Side:** Spring Boot, PostgreSQL, RestClient, HibernateJPA, SQL
 
-**Client:** React, Redux, TailwindCSS, SCSS
+**Client-Side:** React, Redux, TailwindCSS, SCSS
 
 ### Frontend UI photos
 ![front_end_example](./docs/payment.png)
